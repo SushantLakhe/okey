@@ -8,4 +8,10 @@ class hello{
 	public void name() {
 		System.out.println("Sushant Lakhe");
 	}
+	
+	
+	public void stubentname() {
+		System.out.println("Utsab");
+	}
+	
 }
